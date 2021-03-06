@@ -7,7 +7,7 @@ regression, nonlinear regressive functions, panel data analysis, regression with
 experiment design and quasi experiments, causality, VARs, Cointegration
 and Clustering.
 
-This repo will follow the outline provided by econometrics-with-r.org's curriculum and use similar/the same examples.
+This repo will follow the outline of econometrics-with-r.org's curriculum and use the same or similar examples.
 
 Sources used in this library are:
 
